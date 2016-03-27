@@ -1,4 +1,4 @@
-# Log4a - Log 4 Arduino
+# Log4a - Log 4 Arduino library.
 ## Description
 A powerfull logging library for Arduino.
 Features:
