@@ -2,7 +2,7 @@
  * Log4a.cpp
  *
  *  Created on: Jan 23, 2016
- *      Author: amit
+ *      Author: meetyg
  */
 
 #include "Log4a.h"
