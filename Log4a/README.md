@@ -1,6 +1,7 @@
 # Log4a - Log 4 Arduino library.
 ## Description
 A powerfull logging library for Arduino.
+
 Features:
 - *printf* like output formatting, including floats.
 - Supports *Streams* as output (i.e. Serial, SD, etc...)
