@@ -10,10 +10,10 @@
 Log4a::Log4a(Stream& stream, LogLevel level, bool printLevelString): _stream(stream) {
 	_level = constrain(level,LogLevelDebug,LogLevelNone);
 	_printLevelString = printLevelString;
-	_debugStr = F("Debug: ");
-	_infoStr = F("Info: ");
-	_warningStr = F("Warning: ");
-	_errorStr = F("Error: ");
+	_debugStr = F("DEBUG: ");
+	_infoStr = F("INFO: ");
+	_warningStr = F("WARNING: ");
+	_errorStr = F("ERROR: ");
 
 
 }
